@@ -11,3 +11,6 @@ function reverseString(str){
 var statement = "Hello Alien Bhai Brother";
 var result = reverseString(statement);
 console.log(result);
+
+var serial = " 1 2 3 4 5 6 7 8 9 "
+console.log(reverseString(serial));
